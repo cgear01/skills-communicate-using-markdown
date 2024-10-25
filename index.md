@@ -4,3 +4,4 @@
 # <h4>One more
 # <h5>Still going
 # <h6>Look, I made six headers
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
